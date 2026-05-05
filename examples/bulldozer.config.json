@@ -1,0 +1,11 @@
+{
+  "source": "/path/to/images_to_organize",
+  "destination": "/path/to/image_library",
+  "mode": "copy",
+  "date": "exif",
+  "duplicates": "rename",
+  "timezone": "America/New_York",
+  "all_files": false,
+  "manifest_file": "/tmp/bulldozer-manifest.json",
+  "log_file": "/tmp/bulldozer.log"
+}
